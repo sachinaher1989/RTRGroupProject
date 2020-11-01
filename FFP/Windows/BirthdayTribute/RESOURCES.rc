@@ -1,0 +1,17 @@
+#include "Scene4.h"
+#include "Scene3.h"
+#include "Scene2.h"
+#include "Scene1.h"
+
+MYLOGO ICON logo.ico
+
+MYSONG WAVE Music/Gunshot_Sound_Design.wav
+MYSONG1 WAVE Music/FinalRaghuPatiRaghav.wav
+MYSONG2 WAVE Music/RocketWhistle.wav
+MYSONG3 WAVE Music/RocketBlast.wav
+
+MYSONG4 WAVE Music/42_Sec_Fast.wav
+
+MYSONG_SCENE2BG WAVE Music/Scene_Two_33_sec.wav
+
+MYSONG_SCENE1LOGO WAVE Music/Logo_Music.wav
